@@ -1,0 +1,7 @@
+INDEX VERSION 1.130
+D:\Workspace-SBoot\OXYGEN-WORKSPACE-Mar-2018\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2003887969.index
+\boot-client-application\src\test\java
+D:\Workspace-SBoot\OXYGEN-WORKSPACE-Mar-2018\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2652875015.index
+\SpringMVCHibernateManyToManyCRUDExample\src\main\java
+D:\Workspace-SBoot\OXYGEN-WORKSPACE-Mar-2018\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2730152307.index
+\spring-boot-web-jsp\src\test\java
